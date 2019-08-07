@@ -3,4 +3,4 @@ This Repository contains some of the Bayesian Non Parametric Models Based on var
 
 The papers reffered are mentioned here:
 
-Variational Russian Roulette for Deep Bayesian Nonparametrics[http://xuk.ai/assets/xu2019rave.pdf]
+[Variational Russian Roulette for Deep Bayesian Nonparametrics](http://xuk.ai/assets/xu2019rave.pdf)
