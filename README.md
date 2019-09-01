@@ -7,3 +7,5 @@ This Repository contains some of the Bayesian Non Parametric Models Based on var
 Note : optimizer.py is taken from pytorch default library and is used for implementing dynamic version Adam optimizer for stochastic gumbel-softmax layers
 
 APIC Net is a Bayesian Nueral Network modelling currently being developed using RRS VI.
+
+Note : Some files still are under construction don't use them yet.
