@@ -8,4 +8,3 @@ Note : optimizer.py is taken from pytorch default library and is used for implem
 
 APIC Net is a Bayesian Nueral Network modelling currently being developed using RRS VI.
 
-Note : Some files still are under construction don't use them yet.
